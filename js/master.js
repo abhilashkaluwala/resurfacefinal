@@ -413,19 +413,19 @@ function initialize() {
 }
 
 function changeHTML1() {
-  document.getElementById("changeMe").innerHTML = "Our Bedroom Designs";
+  document.getElementById("changeMe").innerHTML = "Explore Epoxy Floors";
 }
 function changeHTML2() {
-    document.getElementById("changeMe").innerHTML = "Our Bathroom Designs";
+    document.getElementById("changeMe").innerHTML = "Our Terrazzo Tops";
 }
 function changeHTML3() {
-    document.getElementById("changeMe").innerHTML = "Explore Modular Kitchens";
+    document.getElementById("changeMe").innerHTML = "Explore Epoxy Tops";
 }
 function changeHTML4() {
-    document.getElementById("changeMe").innerHTML = "Living Rooms Designed by us";
+    document.getElementById("changeMe").innerHTML = "Mosaqua Quarts";
 }
 function changeHTML5() {
-    document.getElementById("changeMe").innerHTML = "Our Home Office Collection";
+    document.getElementById("changeMe").innerHTML = "Our Terrazzo Floors";
 }
 
 function changeImage1() {
