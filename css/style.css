@@ -798,11 +798,11 @@ blockquote div.author::before{
 .dark :-ms-input-placeholder{
     color:rgba(255,255,255,.7)
 }
-.tab-content{
+/* .tab-content{
     border:1px solid rgba(0,0,0,.1);
     border-style:none solid solid;
     padding:2.55em
-}
+} */
 .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover,.nav-tabs>li.active>a:focus,.nav-tabs>li>a:hover,.nav-tabs>li.active>a,.nav-tabs>li.active>a:hover,.nav-tabs>li.active>a:focus{
     background-color:transparent;
     border-color:rgba(255,255,255,.1);
@@ -2784,9 +2784,9 @@ aside.widget ul{
     top:0;
     left:0
 }
-.highlights .row{
+/* .highlights .row{
     position:relative
-}
+} */
 .highlights h1{
     line-height:.85em
 }
